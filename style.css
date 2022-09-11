@@ -1,64 +1,69 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
-body{
+
+body {
     margin-left: 10rem;
     margin-top: 1rem;
     padding: 7rem 0;
 }
 
-.bank-credit label{
-    
+.bank-credit label {
     margin-top: 40px;
     margin-left: 40px;
     width: 35%;
     outline: 0;
 }
-.bank-credit label input{
+
+.bank-credit label input {
     height: 28px;
     outline: 0;
     margin-left: 10px;
-} 
-.bank-credit .AZN span{
+}
+
+.bank-credit .AZN span {
     margin-right: 20px;
 }
-.bank-month{
+
+.bank-month {
     display: flex;
     align-items: center;
 }
-.bank-month label{
-    
+
+.bank-month label {
     margin: 40px;
     width: 35%;
     outline: 0;
-    
 }
-.bank-month label input{
+
+.bank-month label input {
     height: 28px;
     outline: 0;
     margin-left: 10px;
-} 
-.bank-rate label{
+}
+
+.bank-rate label {
     margin-left: 40px;
     margin-top: 10px;
     width: 35%;
     outline: 0;
-    
 }
-.bank-rate label input{
+
+.bank-rate label input {
     height: 28px;
     outline: 0;
     margin-left: 10px;
-} 
-.bank-credit h3{
+}
+
+.bank-credit h3 {
     margin-left: 43px;
     margin-top: 20px;
     font-size: 36px;
 }
-.bank-credit p{
+
+.bank-credit p {
     line-height: 19px;
     font-size: 16px;
     box-sizing: inherit;
@@ -66,4 +71,3 @@ body{
     margin-top: 43px;
     margin-left: 43px;
 }
-
